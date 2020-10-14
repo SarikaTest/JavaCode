@@ -2,7 +2,7 @@ class Pattern8{
 public static void main (String args [])
 {
 
-	//test
+	//testing
 
 int str = 5;
 int alm = 8;
