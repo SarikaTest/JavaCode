@@ -1,6 +1,6 @@
 class SortingArrayAccending{
 	public static void main(String args []){
-		int [] arr = {4,2,1,5,3};
+		int [] arr = {4,2,1,5,3}; // test
 		System.out.println("======before sorting elements======");
 		for(int i=0; i<arr.length; i++){
 		System.out.print(arr[i] + " ");
