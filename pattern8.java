@@ -2,6 +2,7 @@ class Pattern8{
 public static void main (String args [])
 {
 int str = 5;
+int alm = 8;
 for (int i=1;i<=5;i++)
 {
  if(i<=3){
